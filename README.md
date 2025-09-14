@@ -1,1 +1,3 @@
-![Banner](https://raw.githubusercontent.com/<your-username>/PlayWaves-Releases/main/banner.png)
+ PlayWaves 🎶
+
+![Banner](https://raw.githubusercontent.com/<Bhanu7773-dev>/PlayWaves-Releases/main/assets/banner.png)
