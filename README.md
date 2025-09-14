@@ -1,3 +1,5 @@
- PlayWaves 🎶
+![Banner](PLAYWAVES.png)
 
-![Banner](https://raw.githubusercontent.com/<Bhanu7773-dev>/PlayWaves-Releases/main/assets/banner.png)
+# PlayWaves-Releases
+
+Your project description goes here...
