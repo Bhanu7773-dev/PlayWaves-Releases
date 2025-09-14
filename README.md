@@ -57,4 +57,4 @@ Whether you love discovering new tracks, building playlists, or customizing your
 **Ready to experience music like never before?  
 Join PlayWaves and let your listening journey take flight among the stars!**
 
-Special Thanx to @darkx-dev(bug fixes) and Susime (for logo)
+Special thanks to [@Dekuiuto](https://telegram.me/Dekuiuto) For App Logo & [@darkx_dev](https://telegram.me/darkx_dev) for Bug Fixes
